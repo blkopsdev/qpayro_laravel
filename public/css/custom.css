@@ -1,0 +1,11 @@
+.code{
+    line-height:1;
+    font-size:0.9em;
+    color:#fff;
+    padding:10px;
+    text-indent: 0.5em;
+}
+#product-video, #product-image{
+	border:solid 3px gray;
+	padding: 2px;
+}
